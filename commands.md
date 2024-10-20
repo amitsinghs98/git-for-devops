@@ -1,7 +1,7 @@
 # Git Commands Cheat Sheet
 
 ## 1. Initialize Git Repository
-.
+..
 `git init`
 
 Initializes a new Git repository in the current directory.
